@@ -1,9 +1,10 @@
-# Cyber-Security-Project-6th-Sem
-Cyber Attack Detection by classifying different attack types using a binary classifier from the CICIDS 2017 Dataset
+# Cyber Security Project - 6th Semester 
 
-## Team Members
-### Swapnanil Ray
-### Disha Chakraborty
-### Surya Sekhar Datta
-### Manosij Sur Chowdhury
-### Batulla Smriti Rani
+## Problem Statement : Network Attack Prediction using different classifiers. Select the CICIDS 2017 dataset and perform a binary classification of predicting attack types using the feature set. Also use different AI/ML models for classification and compare the performance of each classifier.
+
+## Group Members:
+### Disha Chakraborty (B-141)
+### Swapnanil Ray (B-147)
+### Surya Sekhar Datta (B-150)
+### Manosij Sur Chowdhury (B-135)
+### Battula Smriti Rani (B-159)
